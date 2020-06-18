@@ -14,5 +14,5 @@ end
 
 def find_the_cheese(cheeses)
     cheese_types = ["cheddar", "gouda", "camembert"]
-    cheese_types.find {|cheese| cheese_types.inculde(cheese)}
+    cheese_types.find {|cheese| cheese_types.inculed(cheese)}
 end
